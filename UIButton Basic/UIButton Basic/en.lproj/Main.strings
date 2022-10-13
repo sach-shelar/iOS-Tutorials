@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LwZ-qO-4NI"; */
+"LwZ-qO-4NI.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "hUc-Qb-b90"; */
+"hUc-Qb-b90.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hUc-Qb-b90"; */
+"hUc-Qb-b90.normalTitle" = "Button";
